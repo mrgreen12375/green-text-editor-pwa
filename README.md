@@ -9,7 +9,7 @@ This project is to create a progressive web application text editor. This text e
 - [Usage](#Usage)
 - [Contribution](#Contributing)
 - [Questions](#Questions)
-- [Diployment Links](#Diployement-Links)
+- [Diployment Links](#Questions)
 ## Mock-up
 
 j.a.t.e.
