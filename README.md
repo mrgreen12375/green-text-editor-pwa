@@ -1,7 +1,7 @@
 # green-text-editor-pwa
 
 ## Description
-This project is to create a progressive web application text editor. This text editor application can be installed locally so it can be used online or offline. Several PWA technologies were used in this project. Such as webpack a static module bundler, workbox to make a service worker that caches static assets and indexedDB as the database.
+This project is to create a progressive web application text editor. This text editor application can be installed locally so it can be used online or offline. When a user types something and then clicks of the text field, the text will be saved. Several PWA technologies were used in this project. Such as webpack a static module bundler, workbox to make a service worker that caches static assets and indexedDB as the database.
 
 ## Table of contents
 - [Mock-up](#Mock-up)
