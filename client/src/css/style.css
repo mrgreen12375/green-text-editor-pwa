@@ -192,20 +192,10 @@ h1 {
   background-color: #31a9e1;
 }
 
-@media only screen and (max-width: 600px) {
-  .nav-btn {
-    display: none;
-  }
-
-  .navbar-brand {
-    display: none;
-  }
-
-  #navbar {
-    justify-content: center;
-  }
+@media screen and (max-width: 600px) {
 
   h1 {
-    font-size: 18px;
+    font-size: 15px;
   }
+
 }
